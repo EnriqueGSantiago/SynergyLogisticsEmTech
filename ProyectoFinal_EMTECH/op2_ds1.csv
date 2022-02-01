@@ -1,0 +1,9 @@
+direction,transport_mode,total_value
+Exports,Sea,160163298000
+Exports,Road,94570676000
+Exports,Rail,67290190000
+Imports,Sea,55528000000
+Exports,Air,32785147000
+Imports,Road,20590000000
+Imports,Rail,14600000000
+Imports,Air,5477000000

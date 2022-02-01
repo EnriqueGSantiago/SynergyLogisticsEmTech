@@ -1,0 +1,203 @@
+origin,destination,transport_mode,count
+South Korea,Vietnam,Sea,497.0
+USA,Netherlands,Sea,436.0
+Netherlands,Belgium,Road,374.0
+China,Mexico,Air,330.0
+Japan,Brazil,Sea,306.0
+Germany,France,Road,299.0
+South Korea,Japan,Sea,294.0
+Germany,China,Sea,282.0
+Australia,Singapore,Sea,273.0
+Singapore,Thailand,Sea,273.0
+Canada,Mexico,Rail,261.0
+China,Spain,Air,250.0
+Mexico,New Zealand,Sea,249.0
+China,Japan,Air,238.0
+United Kingdom,Belgium,Sea,229.0
+Germany,Mexico,Sea,222.0
+India,United Arab Emirates,Sea,214.0
+USA,Belgium,Sea,211.0
+Japan,Mexico,Sea,206.0
+China,Rusia,Rail,204.0
+Japan,Canada,Air,203.0
+Australia,Thailand,Sea,200.0
+Mexico,USA,Rail,199.0
+Japan,China,Sea,196.0
+Brazil,China,Sea,195.0
+Malaysia,Thailand,Rail,195.0
+Germany,USA,Sea,193.0
+Netherlands,France,Road,185.0
+India,China,Rail,183.0
+Japan,Mexico,Air,179.0
+USA,Mexico,Rail,178.0
+United Kingdom,Spain,Sea,176.0
+France,Germany,Road,170.0
+Russia,Belorussia,Rail,170.0
+South Korea,Mexico,Sea,162.0
+France,United Kingdom,Sea,147.0
+Belgium,United Kingdom,Road,146.0
+China,Thailand,Road,145.0
+China,South Korea,Rail,144.0
+China,Argentina,Air,143.0
+Spain,Germany,Road,142.0
+USA,United Arab Emirates,Sea,142.0
+China,Germany,Air,142.0
+USA,Argentina,Sea,139.0
+United Kingdom,Ireland,Sea,137.0
+Mexico,Japan,Sea,135.0
+Russia,China,Road,130.0
+Japan,USA,Air,123.0
+United Kingdom,USA,Sea,122.0
+Russia,Germany,Sea,120.0
+France,Belgium,Rail,118.0
+France,Spain,Road,116.0
+China,United Arab Emirates,Sea,114.0
+Australia,Philippines,Sea,114.0
+Canada,USA,Rail,114.0
+Australia,United Kingdom,Sea,113.0
+Australia,Brazil,Sea,112.0
+China,USA,Air,111.0
+USA,Canada,Road,110.0
+Russia,Netherlands,Sea,110.0
+Italy,Germany,Rail,109.0
+USA,Thailand,Sea,109.0
+Brazil,Mexico,Sea,108.0
+USA,Canada,Rail,107.0
+United Kingdom,France,Sea,107.0
+Mexico,Singapore,Sea,106.0
+Singapore,USA,Sea,106.0
+China,Japan,Sea,105.0
+France,Belgium,Road,105.0
+Canada,China,Sea,103.0
+France,USA,Sea,103.0
+Mexico,Canada,Sea,102.0
+Australia,Japan,Sea,102.0
+United Kingdom,Italy,Sea,100.0
+Mexico,China,Sea,100.0
+Austria,Switzerland,Rail,99.0
+Spain,Russia,Sea,99.0
+Austria,Italy,Rail,98.0
+India,USA,Sea,95.0
+China,Belgium,Air,95.0
+Austria,Slovakia,Rail,94.0
+South Korea,China,Sea,94.0
+Germany,Canada,Sea,93.0
+South Korea,Brazil,Sea,91.0
+Singapore,Malaysia,Sea,89.0
+France,Canada,Sea,86.0
+Germany,Brazil,Air,85.0
+Canada,Japan,Sea,83.0
+France,Poland,Rail,83.0
+Mexico,Brazil,Sea,81.0
+Russia,Turkey,Road,80.0
+Germany,South Korea,Sea,78.0
+Brazil,Netherlands,Sea,78.0
+South Korea,USA,Sea,77.0
+Japan,United Arab Emirates,Sea,76.0
+Germany,Italy,Rail,76.0
+Italy,Spain,Rail,75.0
+USA,Singapore,Sea,75.0
+Italy,Switzerland,Rail,74.0
+Switzerland,Russia,Rail,73.0
+France,China,Sea,72.0
+Switzerland,Germany,Road,71.0
+Japan,Canada,Sea,70.0
+Japan,Russia,Sea,68.0
+Germany,South Korea,Air,66.0
+Austria,Germany,Rail,66.0
+Russia,India,Sea,65.0
+Netherlands,Belgium,Rail,62.0
+China,Brazil,Air,60.0
+Switzerland,France,Road,60.0
+Mexico,Austria,Sea,59.0
+United Kingdom,Canada,Sea,58.0
+Italy,Poland,Rail,58.0
+Italy,USA,Sea,58.0
+USA,India,Sea,57.0
+Japan,Thailand,Sea,55.0
+China,Thailand,Rail,55.0
+USA,Brazil,Sea,55.0
+China,Singapore,Sea,55.0
+Germany,Italy,Air,54.0
+Netherlands,France,Rail,54.0
+Japan,Germany,Air,54.0
+Spain,Belgium,Sea,53.0
+Spain,Germany,Rail,52.0
+South Korea,United Arab Emirates,Sea,51.0
+Australia,Mexico,Sea,51.0
+Italy,United Kingdom,Sea,50.0
+Russia,Belorussia,Road,49.0
+USA,China,Air,49.0
+Italy,France,Road,48.0
+Austria,USA,Sea,48.0
+Japan,South Korea,Sea,48.0
+Canada,USA,Road,47.0
+Brazil,USA,Sea,46.0
+USA,Brazil,Rail,46.0
+Brazil,Argentina,Road,46.0
+Singapore,Japan,Sea,46.0
+Germany,China,Air,46.0
+Switzerland,Italy,Road,45.0
+China,South Korea,Road,45.0
+Netherlands,Germany,Rail,44.0
+Mexico,Peru,Sea,44.0
+Germany,USA,Air,43.0
+Japan,Singapore,Sea,43.0
+Germany,United Kingdom,Sea,42.0
+Spain,Mexico,Sea,41.0
+Spain,France,Rail,40.0
+Germany,Poland,Rail,36.0
+Russia,France,Sea,36.0
+Belgium,Netherlands,Road,36.0
+Brazil,Argentina,Rail,36.0
+USA,Germany,Air,34.0
+Mexico,Germany,Sea,34.0
+Belgium,France,Road,32.0
+Austria,France,Rail,32.0
+Italy,Croatia,Rail,30.0
+USA,China,Sea,30.0
+Germany,India,Sea,30.0
+Italy,Singapore,Rail,30.0
+South Korea,Germany,Air,29.0
+Mexico,USA,Road,29.0
+Belgium,Germany,Road,29.0
+Netherlands,Argentina,Sea,29.0
+Russia,Japan,Sea,28.0
+Italy,Mexico,Sea,28.0
+India,Germany,Sea,28.0
+Italy,Canada,Sea,28.0
+Spain,Italy,Sea,26.0
+India,Russia,Sea,26.0
+Italy,Ireland,Rail,25.0
+Spain,Brazil,Sea,25.0
+France,Germany,Rail,25.0
+USA,Germany,Sea,24.0
+Netherlands,Mexico,Sea,24.0
+Netherlands,Brazil,Sea,23.0
+France,Italy,Road,23.0
+Canada,United Kingdom,Sea,23.0
+Singapore,China,Sea,23.0
+USA,Japan,Air,22.0
+Japan,Switzerland,Sea,21.0
+China,Mexico,Sea,21.0
+United Arab Emirates,India,Sea,20.0
+France,Netherlands,Road,20.0
+Russia,South Korea,Sea,20.0
+Canada,Brazil,Sea,19.0
+Italy,Netherlands,Sea,19.0
+India,Japan,Sea,19.0
+Vietnam,United Arab Emirates,Sea,18.0
+Japan,USA,Sea,17.0
+USA,Mexico,Road,16.0
+Italy,Russia,Rail,16.0
+Japan,Spain,Sea,15.0
+China,USA,Sea,15.0
+Japan,South Korea,Air,14.0
+France,Russia,Rail,13.0
+Germany,United Kingdom,Air,10.0
+Germany,Mexico,Air,9.0
+Japan,India,Sea,8.0
+France,Austria,Rail,7.0
+Brazil,Germany,Sea,6.0
+Malaysia,Singapore,Sea,4.0
+Netherlands,Belgium,Sea,1.0
